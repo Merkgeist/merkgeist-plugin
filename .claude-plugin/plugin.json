@@ -1,0 +1,19 @@
+{
+  "name": "merkgeist",
+  "version": "0.1.2",
+  "description": "Aufträge, die du mit der Merkgeist-App in dein eigenes Postfach sprichst, von deiner KI abarbeiten lassen – und das Postfach dafür einrichten. Merkgeist liefert nur die Mail; was deine KI darf, entscheidest du. · Work through the tasks you dictated to your own mailbox with the Merkgeist app – and set that mailbox up. Merkgeist delivers the email; what your assistant may do stays your decision.",
+  "author": {
+    "name": "Verwaltungsgesellschaft M. Henkens GmbH",
+    "url": "https://merkgeist.de"
+  },
+  "homepage": "https://merkgeist.de/ki/",
+  "keywords": [
+    "merkgeist",
+    "voice notes",
+    "email",
+    "tasks",
+    "inbox",
+    "dictation"
+  ],
+  "license": "MIT"
+}
